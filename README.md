@@ -1,2 +1,2 @@
-# AndroidGallery
-Gallery for Android
+# Android
+Android projects
